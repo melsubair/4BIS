@@ -1,1 +1,2 @@
 This is my first git file 
+I just would like to remove the word "git" from the file
